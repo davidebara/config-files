@@ -19,7 +19,7 @@ nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 
-" Yank to clipboard
+" yank to clipboard
 vnoremap <C-c> "+y
 
 " save some strokes
